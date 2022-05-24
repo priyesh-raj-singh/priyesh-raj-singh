@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Algorithms, Competitive Programming, Android Development**
 
-- 📫 How to reach me **Priyeshrajdev@gmail.com**
+- 📫 How to reach me **Priyeshphy@gmail.com**
 
 - ⚡ Fun fact **Michael Keaton was my favourite Batman (●'◡'●)**
 
