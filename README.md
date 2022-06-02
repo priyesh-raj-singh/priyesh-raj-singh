@@ -2,8 +2,10 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-<h1 align="center">Hi 👋, I'm Priyesh Raj Singh</h1>
-<h3 align="center">A passionate Problem Solver and Developer from India.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Priyesh Raj Singh</h1>
+<h3 align="center">A passionate Problem Solver and Developer from India.</h3> -->
+
+<h2>नमस्ते (Namaste)🙏🏻, I'm Priyesh Raj Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyesh-raj-singh&label=Profile%20views&color=0e75b6&style=flat" alt="priyesh-raj-singh" /> </p>
 
