@@ -1,4 +1,7 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/priyesh-raj-singh/priyesh-raj-singh/blob/main/github-header-image%20(1).png" alt="priyesh-raj-singh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/priyesh-raj-singh/priyesh-raj-singh/blob/main/github-header-image%20(1).png" alt="priyesh-raj-singh" /></a> </p> -->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Priyesh Raj Singh</h1>
 <h3 align="center">A passionate Problem Solver and Developer from India.</h3>
 
