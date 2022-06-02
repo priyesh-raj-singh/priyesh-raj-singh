@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyesh-raj-singh&label=Profile%20views&color=0e75b6&style=flat" alt="priyesh-raj-singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyesh-raj-singh" alt="priyesh-raj-singh" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyesh-raj-singh" alt="priyesh-raj-singh" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Android Development.**
 
@@ -20,6 +20,9 @@
 - 📫 How to reach me **Priyeshphy@gmail.com**
 
 - ⚡ Fun fact **Michael Keaton was my favourite Batman (●'◡'●)**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyesh-raj-singh" alt="priyesh-raj-singh" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
