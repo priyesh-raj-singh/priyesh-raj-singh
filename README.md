@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Android Development.**
 
-- 👯 I’m looking to collaborate on **Open Source Android and Frontend Projects.**
+- 👯 I’m looking to collaborate on **MERN And Blockchain Based Projects.**
 
 - 💬 Ask me about **Algorithms, Competitive Programming, Android Development**
 
