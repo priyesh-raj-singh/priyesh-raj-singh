@@ -18,21 +18,19 @@
 
 - ⚡ Fun fact **Michael Keaton was my favourite Batman (●'◡'●)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyesh-raj-singh&label=Profile%20views&color=0e75b6&style=flat" alt="priyesh-raj-singh" /> </p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyesh-raj-singh" alt="priyesh-raj-singh" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    
-        <a href="https://dev.to/priyeshrajsingh" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.priyeshrajsingh" height="30" width="40" /></a>
-        <a href="https://twitter.com/algo_prims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="algo_prims" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/priyesh-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyesh-raj" height="30" width="40" /></a>
-        <a href="https://leetcode.com/priyesh_raj_singh/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="priyesh_raj_singh" height="30" width="40" /></a>
-        <a href="https://www.hackerearth.com/@priyeshkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyeshkash" height="30" width="40" /></a>
-         <a href="https://medium.com/@priyesh-phy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyesh-phy" height="30" width="40" /></a>
-        
+<a href="https://twitter.com/algo_prims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="algo_prims" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyesh-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyesh-raj" height="30" width="40" /></a>
 <a href="https://www.instagram.com/priyesh_raj_singh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyesh_raj_singh_" height="30" width="40" /></a>
+<a href="https://dev.to/priyeshrajsingh" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.priyeshrajsingh" height="30" width="40" /></a>
+    <a href="https://twitter.com/algo_prims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="algo_prims" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/priyesh-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyesh-raj" height="30" width="40" /></a>
+    <a href="https://leetcode.com/priyesh_raj_singh/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="priyesh_raj_singh" height="30" width="40" /></a>
+    <a href="https://www.hackerearth.com/@priyeshkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyeshkash" height="30" width="40" /></a>
+     <a href="https://medium.com/@priyesh-phy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyesh-phy" height="30" width="40" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
