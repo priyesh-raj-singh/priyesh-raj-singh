@@ -35,7 +35,7 @@
 <a href="https://dev.to/priyeshrajsingh" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.priyeshrajsingh" height="30" width="40" /></a>
 <a href="https://twitter.com/algo_prims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="algo_prims" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyesh-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyesh-raj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_raj_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyesh_raj_singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/priyesh_raj_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyesh_raj_singh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@priyeshkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyeshkash" height="30" width="40" /></a>
  <a href="https://medium.com/@priyesh-phy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyesh-phy" height="30" width="40" /></a>
 </p>
