@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **Priyeshphy@gmail.com**
 
-- ⚡ Fun fact **Michael Keaton was my favourite Batman (●'◡'●)**
+- ⚡ Fun fact **Michael Keaton was my favourite Batman![BatmanGIF](https://user-images.githubusercontent.com/65354440/234652716-dbcfb61c-fe68-40c0-919d-65b9ac35ca67.gif)
+ (●'◡'●)**
 - 
 
 
